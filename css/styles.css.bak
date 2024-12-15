@@ -1,8 +1,39 @@
 body {
-	background-image: url("/C:/Users/thoma/OneDrive/Documents/Learning/PersonalSite/assets/castle.jpeg");
+	background-image: url("/C:/Users/thoma/OneDrive/Documents/Learning/PersonalSite/assets/images/castle.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 h1 {
 	color: red;
+}
+table, th, td {
+	border: 1px solid white;
+	border-radius: 5px;
+	border-collapse: collapse;
+}
+th, td {
+	background-color: #fc0398;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
 }
