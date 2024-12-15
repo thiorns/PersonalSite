@@ -1,0 +1,8 @@
+body {
+	background-image: url("/C:/Users/thoma/OneDrive/Documents/Learning/PersonalSite/assets/castle.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	color: red;
+}
