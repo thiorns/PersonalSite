@@ -4,7 +4,12 @@ body {
 	background-size: cover;
 }
 h1 {
-	color: red;
+<<<<<<< HEAD
+	color: blue;
+=======
+	color: green;
+>>>>>>> style-changes
+	font-style: italic;
 }
 table, th, td {
 	border: 1px solid white;
