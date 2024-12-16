@@ -4,11 +4,7 @@ body {
 	background-size: cover;
 }
 h1 {
-<<<<<<< HEAD
-	color: blue;
-=======
-	color: green;
->>>>>>> style-changes
+	color: orange;
 	font-style: italic;
 }
 table, th, td {
@@ -41,4 +37,18 @@ li a {
 
 li a:hover {
   background-color: #111111;
+}
+
+div {
+	width: 1400px;
+	margin: auto;
+	background-color: #000000;
+	border-radius: 10px;
+	box-sizing: border-box;
+	padding: 2px;
+	word-wrap: break-word;
+}
+
+p {
+	color: white;
 }
