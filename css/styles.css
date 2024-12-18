@@ -47,6 +47,7 @@ div {
 	box-sizing: border-box;
 	padding: 0px;
 	word-wrap: break-word;
+	display: inline block;
 }
 
 p {
